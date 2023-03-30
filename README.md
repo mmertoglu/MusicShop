@@ -1,19 +1,18 @@
-# Marvel App
+# Music Shop
 
-*Here is my new project Marvel App.*
+*Here is my new project Music Shop.*
 
 # Description 
- You can login or signup to app via email, google or facebook. After login you will navigate to HomeScreen that contains a lot of Marvel Characters.
- You can search for characters by the search bar. When you click on the character, you will be directed to the character detail page and you will be able to add the character you clicked to your favorites.
+ I use HTML and CSS.
  
 
 
 ## Photos 
 <p align="center" >
-<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music1.jpg" width="250" align="center" /> 
-<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music1.jpg" width="250" align="center" /> 
-<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music1.jpg" width="250" align="center" /> 
-<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music1.jpg" width="250" align="center" /> 
+<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music1.jpg" width="400" align="center" /> 
+<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music2.jpg" width="4000" align="center" /> 
+<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music3.png" width="400" align="center" /> 
+<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music4.jpg" width="400" align="center" /> 
 </p>
 
 
