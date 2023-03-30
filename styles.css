@@ -1,0 +1,172 @@
+/* ******************************   NAV *********************************  */
+.main-header {
+    color: #146C94;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Kanit', sans-serif;
+    margin-bottom: 0px;
+}
+.nav-list {
+    overflow: hidden;
+    list-style-type: none;
+    display: inline-block;
+    text-align: left;
+    
+}
+.nav-item {
+    float: left;
+    
+}
+.nav-a {
+    display: block;
+    color: #F6F1F1;
+    text-align: center;
+    padding-right: 30px;
+    text-decoration-line: none;
+    font-size: 16px;
+    font-weight:600;
+}
+.nav-container {
+    text-align: center;
+    background-color: #19A7CE;
+    border-radius: 4px;
+    box-shadow: 3px 3px lightblue
+}
+.main-body{
+    background-color: #F6F1F1;
+    overflow-x: hidden;
+    
+}
+/* ****************************************Body  ********************************************/
+
+.body-div {
+    margin: 30px;
+    overflow: hidden;
+}
+.body-text-article {
+    float: left;
+    margin-right: 10px;
+    width: 500px;
+    position: relative;
+    
+}
+.main-img {
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px  gray;
+    margin-left: 60px;
+    
+}
+.body-header{
+    font-family: 'Kanit', sans-serif;
+}
+.body-text{
+    font-family: 'Kanit', sans-serif;
+    font-size: 16px;
+}
+.customer-image{
+    float: left;
+    border-radius: 50%;
+    margin-right: 10px;
+    
+}
+.customer-container{
+    overflow: hidden;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px 2px  gray;
+}
+.customer-comment {
+    font-size: 12px;
+    font-style: italic;
+    
+}
+
+/* *********************************Products *************************************** */
+
+.main-body-container {
+    width: 100%;
+    margin-top: 20px;
+    
+}
+.second-main-container {
+    display: flex;
+    flex-direction: row;
+
+}
+.box-container {
+    width: 600px;
+    background-color: black;
+    margin: 10px;
+    height: 320px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px  gray;
+}
+.product-image {
+    border-radius: 20px;
+    margin-bottom: -20px;
+    position: absolute;
+    z-index: 0;
+}
+/* *******************************About Us ******************************* */
+
+.contactus-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+    flex-direction: column;
+    margin-top: 30px;
+    
+
+}
+.icon-container { 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -30px;
+}
+.phone-text{
+    font-family: 'Kanit', sans-serif;
+    color: #0B2447;
+}
+.contact-text{
+    font-family: 'Kanit', sans-serif;
+    color: #0B2447;
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+.input-container {
+    display: flex; 
+    flex-direction: column;
+    margin: 20px;   
+    
+}
+.input {
+    height: 50px;
+    width: 400px;
+    margin-top: 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px 2px  gray;
+    border: none;
+    
+}
+.message-container{
+    height: 180px;
+    width: 400px;
+    margin-top: 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px 2px  gray;
+    border: none;
+}
+.send-message-button { 
+    margin-bottom: 30px;
+    background-color: #19A7CE;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    border: none;
+    box-shadow: 2px 2px 2px 2px  gray;
+    
+}
