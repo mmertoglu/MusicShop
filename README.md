@@ -9,14 +9,14 @@
 
 ## Photos 
 
-<h2> Home page     </>
-<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music1.jpg" width="500" align="center" /> 
+<h2> Home page </>
+<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music1.jpg" width="500"  /> 
 <h2> Products Page </>
-<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music2.jpg" width="500" align="center" /> 
+<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music2.jpg" width="500"  /> 
 <h2> About Us page </>
-<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music3.png" width="500" align="center" /> 
+<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music3.png" width="500"  /> 
 <h2> Contact page </>
-<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music4.jpg" width="500" align="center" /> 
+<img src="https://github.com/mmertoglu/MusicShop/blob/master/images/music4.jpg" width="500"  /> 
 
 
 
